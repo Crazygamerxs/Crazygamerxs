@@ -1,4 +1,4 @@
-[![MasterHead]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw16pQJrFmnRPQqUPAcTjdKK&ust=1693094153236000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCIzq6B-YADFQAAAAAdAAAAABAY)
+[![MasterHead]](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Inshal Farid.</h1>
 <h3 align="center">A computer science student inspiring to become a Cyber Security Specialist.</h3>
 <img align = "right" alt="Coding" width = "400" src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif">
