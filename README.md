@@ -1,4 +1,4 @@
-[![MasterHead]](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)
+![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Inshal Farid.</h1>
 <h3 align="center">A computer science student inspiring to become a Cyber Security Specialist.</h3>
 <img align = "right" alt="Coding" width = "400" src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif">
