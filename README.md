@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/faridinshal" target="blank"><img src="https://img.shields.io/twitter/follow/faridinshal?logo=twitter&style=for-the-badge" alt="faridinshal" /></a> </p>
 
-- 🔭 I’m currently working on **Food Allergen Detector & Recipe Substitution App**
+- 🔭 I’m currently working on **Local Farm-to-Table Marketplace**
 
 - 🌱 I’m currently learning **Python, Back-End**
 
