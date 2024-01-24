@@ -30,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazygamerxs&show_icons=true&locale=en&layout=compact" alt="crazygamerxs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazygamerxs&show_icons=true&locale=en" alt="crazygamerxs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazygamerxs&" alt="crazygamerxs" /></p>
