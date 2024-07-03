@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Inshal Farid.</h1>
+<h2 align="center">Hi 👋, I'm Muhammad Inshal Farid | Software Developer @ Bend All Automotives </h2>
 <h3 align="center">A computer science student inspiring to be one of the greats.</h3>
 <img align = "right" alt="Coding" width = "400" src="https://user-images.githubusercontent.com/105538414/199022955-7a7a7e87-b31b-4b04-8354-0d235110fe82.gif">
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/faridinshal" target="blank"><img src="https://img.shields.io/twitter/follow/faridinshal?logo=twitter&style=for-the-badge" alt="faridinshal" /></a> </p>
 
-- 🔭 I’m currently working on **Community Market Place for Students**
+- 🔭 I’m currently working on **Tuxania**
 
-- 🌱 I’m currently learning **React, Front End**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://minshalf.me](https://minshalf.me)
 
