@@ -7,9 +7,9 @@
 
 <!--<p align="left"> <a href="https://twitter.com/faridinshal" target="blank"><img src="https://img.shields.io/twitter/follow/faridinshal?logo=twitter&style=for-the-badge" alt="faridinshal" /></a> </p>-->
 
-- 🔭 I’m currently working on **Tuxania**
+- 🔭 I’m currently working on **Elden Ring Challenge Website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Burp Suite**
 
 - 👨‍💻 All of my projects are available at [https://minshalf.me](https://minshalf.me)
 
